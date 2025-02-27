@@ -16,5 +16,7 @@
 * Icons from [Lucide](https://lucide.dev/)
 * Use [GreenSock](https://greensock.com/) animation library
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
+* Colors from (https://unpkg.com/open-props)
+* 
 
 
